@@ -1,13 +1,13 @@
+package minhasmusicas;
+
 public class Audio {
     private String titulo;
-    private int duracao;
     private int totalReproducoes;
     private int curtidas;
     private double classificacao;
 
-    public Audio(String titulo,int duracao){
+    public Audio(String titulo){
         this.titulo = titulo;
-        this.duracao = duracao;
         this.totalReproducoes = 0;
         this.curtidas = 0;
         this.classificacao = 0;
@@ -21,15 +21,23 @@ public class Audio {
         this.titulo = titulo;
     }
 
-    public int getDuracao() {
-        return duracao;
+    public int getTotalReproducoes() {
+        return totalReproducoes;
     }
 
-    public void setDuracao(int duracao) {
-        this.duracao = duracao;
+    public int getCurtidas() {
+        return curtidas;
+    }
+
+    public double getClassificacao() {
+        return classificacao;
     }
 
     public void curtir(){
         this.curtidas++;
+    }
+
+    public void reproduz(){
+        this.totalReproducoes++;
     }
 }

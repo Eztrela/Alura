@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/02/02.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/04/04.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/03/Adivinhacao/Adivinhacao.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/03/Adivinhacao/Adivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alura.iml" filepath="$PROJECT_DIR$/.idea/Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/03/Aulas/Aulas.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java-Criando a sua primeira aplicação/03/Aulas/Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java aplicando a Orientação a Objetos/Java aplicando a Orientação a Objetos.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java aplicando a Orientação a Objetos/Java aplicando a Orientação a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java trabalhando com listas e coleções de dados/Java trabalhando com listas e coleções de dados.iml" filepath="$PROJECT_DIR$/Java/Aprenda Java com Orientação a Objetos/Java trabalhando com listas e coleções de dados/Java trabalhando com listas e coleções de dados.iml" />
+    </modules>
+  </component>
+</project>
