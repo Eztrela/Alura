@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71f00a55-4eba-4b3c-8dfd-df671873eeb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/Aulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/MainFilme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/calculos/Classificavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/01-04/Aulas/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Java aplicando a Orientação a Objetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/Projeto Final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/src/minhasmusicas/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/src/minhasmusicas/MinhasPreferidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/src/minhasmusicas/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/src/minhasmusicas/Podcast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java aplicando a Orientação a Objetos/Projeto Final/src/principal/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/calculos/Classificavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/01/projeto-inicial/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java trabalhando com listas e coleções de dados/Java trabalhando com listas e coleções de dados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/primeiroprojeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/02/primeiroprojeto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/Adivinhacao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Adivinhacao/src/Adivinhacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/Aulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/primeiroprojeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/src/Condicional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/src/Leitura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/src/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/03/Aulas/src/OutroLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/04/04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/04/desafio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/04/desafio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Criando a sua primeira aplicação/04/desafio/src/Desafio.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2WruzPO8nh75F4Olfn5MIw2rao6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/eztrela/estudos/Alura/Java/Aprenda Java com Orientação a Objetos/4 - Java-consumindo-API-gravando-arquivos-e-lidando-com-erros/1-Requisições-e-Respostas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PrincipalComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComBusca" />
+      <module name="1-Requisições e Respostas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrincipalComBusca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f00a55-4eba-4b3c-8dfd-df671873eeb6" name="Changes" comment="" />
+      <created>1697503282792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697503282792</updated>
+      <workItem from="1697503283805" duration="1262000" />
+      <workItem from="1697505016868" duration="634000" />
+      <workItem from="1697506036393" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
